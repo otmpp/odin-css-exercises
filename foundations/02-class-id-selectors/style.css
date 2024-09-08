@@ -1,0 +1,19 @@
+/* styles.css */
+
+p {/*should have created it as a class to put it in that way*/
+    background-color: #ff0080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+#id2{
+    font-size: 36px;
+    color: #0000ff
+}
+.px-size{
+    font-size: 24px;
+}
+#id4{
+    font-weight: bold;
+    background-color: #90ee90;
+    
+}
